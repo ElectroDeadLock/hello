@@ -1,1 +1,4 @@
-print("hello python ba4a :D")
+def main(msg):
+    print(msg)
+
+main("hello again")
